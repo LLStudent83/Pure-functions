@@ -12,9 +12,9 @@
       "WithStatement"
     ],
     "no-console": "warn",
-    "eslint linebreak-style": [
-      "error", "windows"
-    ],
+    // "eslint linebreak-style": [
+    //   "error", "windows"
+    // ]
     "linebreak-style": 0
   }
 }

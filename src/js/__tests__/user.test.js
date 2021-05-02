@@ -1,6 +1,5 @@
 import getStatus from '../user';
 
-
 test('Health status check', () => {
   const result = getStatus({ name: 'Маг', health: 75 });
   expect(result).toBe('healthy');
